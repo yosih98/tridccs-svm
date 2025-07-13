@@ -101,8 +101,8 @@ Run the cells sequentially to reproduce the results.
 ---
 
 Author:
-Yousef H.S Alsafadi
-PhD Candidate, Universiti Sains Islam Malaysia (USIM)
+Yousef H.S Alsafadi   -
+PhD Candidate, Universiti Sains Islam Malaysia (USIM)   -
 Email: yosih1998@gmail.com
 
 
