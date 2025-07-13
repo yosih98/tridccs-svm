@@ -1,0 +1,21 @@
+## Requirements
+This work was developed and tested with:
+- Python 3.12.7
+- TensorFlow 2.19.0
+- Keras
+- scikit-learn
+- OpenCV
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- tqdm
+- joblib
+
+## System Requirements
+This implementation can run on standard desktop or laptop machines. However, for efficient feature extraction and model training, the following specifications are recommended:
+- Processor (CPU): Quad-core Intel i5 / AMD Ryzen 5 or higher
+- RAM: Minimum 8 GB (Recommended: 16 GB or more)
+- GPU (Optional): NVIDIA GPU with CUDA support (Recommended: 4 GB VRAM or higher, e.g., GTX 1650, RTX series)
+- Disk Space: At least 5 GB free for datasets and outputs
+- Operating System:Windows 10/11, Ubuntu 20.04+, or macOS 11+
+> Note: GPU acceleration is optional but highly recommended for faster CNN feature extraction.
+ Without GPU, the process may take longer.

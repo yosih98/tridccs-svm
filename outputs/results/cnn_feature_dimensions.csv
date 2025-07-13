@@ -1,0 +1,4 @@
+Model,Output Dimension,Cumulative Dimension (Progressive Sum)
+ResNet50,2048,2048
+DenseNet169,1664,3712
+EfficientNetB0,1280,4992
